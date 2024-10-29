@@ -1,0 +1,11 @@
+/venv/
+/__pycache__/
+/src/dataframe/__pycache__/
+/src/projection/__pycache__/
+/src/projection/projection_methods/__pycache__
+/src/sampling/__pycache__/
+/src/sampling/sampling_methods/__pycache__/
+/test/__pycache__/
+todo.txt
+test.ipynb
+test.py

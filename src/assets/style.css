@@ -1,0 +1,46 @@
+.placeholder-box {
+    height: 250px;
+}
+
+.tab-container {
+    padding-top: 10px;
+}
+
+.sampling-label {
+    font-weight: bold;
+}
+
+.dropdown-input {
+    margin-bottom: 25px;
+    width: 100%;
+}
+
+.dimensionality-label {
+    font-weight: bold;
+}
+
+.number-label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.points-input {
+    margin-bottom: 5px;
+    width: 100%;
+    text-align: center;
+}
+
+.generate-visualization-button {
+    width: 100%;
+    height: 50px;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #119DFF;
+    color: white;
+}
+
+.warning-label {
+    display: block;
+    margin-top: 20px;
+}

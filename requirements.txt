@@ -1,0 +1,12 @@
+dash
+plotly
+pandas
+scikit-learn
+numpy
+scipy
+numba
+umap-learn
+dash-bootstrap-components
+pyDOE
+matplotlib
+kaleido
